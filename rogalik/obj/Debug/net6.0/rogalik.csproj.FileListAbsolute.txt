@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Nazarov_prak\kameneva\rogalik\obj\Debug\net6.0\rogalik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Nazarov_prak\kameneva\rogalik\obj\Debug\net6.0\rogalik.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Nazarov_prak\kameneva\rogalik\obj\Debug\net6.0\rogalik.AssemblyInfo.cs
+C:\Users\user\Desktop\Nazarov_prak\kameneva\rogalik\obj\Debug\net6.0\rogalik.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Nazarov_prak\kameneva\rogalik\bin\Debug\net6.0\rogalik.exe
+C:\Users\user\Desktop\Nazarov_prak\kameneva\rogalik\bin\Debug\net6.0\rogalik.deps.json
+C:\Users\user\Desktop\Nazarov_prak\kameneva\rogalik\bin\Debug\net6.0\rogalik.runtimeconfig.json
+C:\Users\user\Desktop\Nazarov_prak\kameneva\rogalik\bin\Debug\net6.0\rogalik.dll
+C:\Users\user\Desktop\Nazarov_prak\kameneva\rogalik\bin\Debug\net6.0\rogalik.pdb
+C:\Users\user\Desktop\Nazarov_prak\kameneva\rogalik\obj\Debug\net6.0\rogalik.dll
+C:\Users\user\Desktop\Nazarov_prak\kameneva\rogalik\obj\Debug\net6.0\refint\rogalik.dll
+C:\Users\user\Desktop\Nazarov_prak\kameneva\rogalik\obj\Debug\net6.0\rogalik.pdb
+C:\Users\user\Desktop\Nazarov_prak\kameneva\rogalik\obj\Debug\net6.0\rogalik.genruntimeconfig.cache
+C:\Users\user\Desktop\Nazarov_prak\kameneva\rogalik\obj\Debug\net6.0\ref\rogalik.dll
